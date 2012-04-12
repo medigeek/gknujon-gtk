@@ -27,7 +27,7 @@ python 2.5+
 Instructions
 ============
 
-- Run "gspamcop.py -h" for a list of all the parameters and instructions
-- There's a sample line in gspamcop.bat
-- For multiple accounts simply add similar lines to the .bat file
+- Run "gknujon.py -h" for a list of all the parameters and instructions
+- There's a sample line in gknujon.sh
+- For multiple accounts simply add similar lines to the .sh file
 
