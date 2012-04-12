@@ -1,4 +1,4 @@
-#!/usr/bin/env python
+#!/usr/bin/python
 Version = '20120405'
 
 # Original author: Walied Othman <rainwolf@submanifold.be>
