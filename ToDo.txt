@@ -1,0 +1,6 @@
+ToDo
+ - attach sentmessages to spamthread 
+ - forward spam without downloading it
+ - send .eml files (not priority - bug in libgmail)
+ - catch exceptions
+ - ...

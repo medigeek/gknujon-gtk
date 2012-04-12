@@ -1,0 +1,6 @@
+Credit to whom it's due
+***********************
+
+10/11/2006 Robin Monks suggested multiple spams per report, my stupidity to send 1 report per spam got him his gmail account suspended due to "suspicious" activity
+10/11/2007 Ray Cathcart added much needed imap/smtp support
+06/12/2010 Rudi Pittman suggested the use of tmp folders instead of the cwd, counteracting the 2nd law of thermodynamics
