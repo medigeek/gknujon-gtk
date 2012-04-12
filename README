@@ -10,7 +10,8 @@ This program has been forked from gknujon <http://www.submanifold.be/triade/misc
 
 The original programmer, Walied Othman aka rainwolf, has kindly let me use and release gknujon under GPLv3 license.
 
-Original description:
+Original description
+--------------------
 
 Hours of searching lead to frustration, frustration leads to overdue creation, creation leads to the dark side of the spam.  die spam, die (it's german ;-) )
 
@@ -18,14 +19,12 @@ BlueFrog is dead.  Okopipi doesn't produce mucho.  But knujon actually wants all
 
 This is basically the same script as gknujon, except that it only reports 48hrs old spam, instead of doing a lot of filtering and putting it all in one script I decided to split them up.  Since I figured there must be a lot of knujon users who don't use spamcop and/or vice versa.
 
-Mail any suggestions to rainwolf@submanifold.be, have fun
-
 Requirements
 ============
 python 2.5+
 
 
-INSTRUCTIONS
+Instructions
 ============
 
 - Run "gspamcop.py -h" for a list of all the parameters and instructions
